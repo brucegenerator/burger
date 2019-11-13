@@ -5,7 +5,7 @@
 ## Application Heroku Link
 The link below will give you direct access to the Burger web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
 
-* [Burger Time](https://uncbc-eatdaburger.herokuapp.com/)
+* [Burger Time](https://glacial-spire-83173.herokuapp.com/burgers)
 
 ## Local Environment Setup
 To use Eat-Da-Burger web application application from your local environment, you must accomplish the following steps below:
