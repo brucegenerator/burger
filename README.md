@@ -12,7 +12,7 @@ To use The Burger web application from your local environment, you must accompli
 
 **Step 1 - Clone my repo using the command line below.**
 ```
-git clone https://github.com/GrissomErick/Eat-Da-Burger.git
+git clone https://github.com/brucegenerator/burger.git
 ```
 **Step 2 - Change directory to the cloned repo folder.**
 ```
